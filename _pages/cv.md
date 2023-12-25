@@ -12,8 +12,7 @@ redirect_from:
 Huaizheng Zhang
 ======
 
-![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg){width=300px height=200px}
-
+![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg)
 Education
 ------
 * B.S. in ShaoXing University, 2018-2022
@@ -31,7 +30,7 @@ E-mail
 Shuibin Xie
 ======
 
-![Editing a markdown file for a talk](/images/Automomous Vehicles/xsb.png){width=300px height=200px}
+![Editing a markdown file for a talk](/images/Automomous Vehicles/xsb.png)
 
 Education
 ------
