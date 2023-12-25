@@ -12,7 +12,8 @@ redirect_from:
 
 Huaizheng Zhang
 ======
-# ![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg)
+
+![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg)
 
 Education
 ------
