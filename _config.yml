@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Intelligent Cooperative Control Laboratory"
-  avatar           : "Team.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Team.jpg"
+  bio              : "Zhejiang University of Technology College of Information Engineering"
   location         : "HangZhou"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
