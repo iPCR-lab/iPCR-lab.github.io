@@ -11,15 +11,15 @@ redirect_from:
 The Intelligent Cooperative Control Laboratory is directed by Professor Fu Minglei, Department of Control Science and Engineering, College of Information Engineering, [Zhejiang University of Technology](https://www.zjut.edu.cn/). We focus on human-machine collaboration and intelligent control. Current research areas include Information Fusion, Visual SLAM, Robot Trajectory Planning, High Precision positioning.
 ![Editing a markdown file for a talk](/images/Team2.jpg)
 
-Robotics Team
+1 Robotics Team
 ======
 Team Profile
 
-Autonomous Vehicles Team
+2 Autonomous Vehicles Team
 ======
 Team Profile
 
-RTK Team
+3 RTK Team
 ======
 GNSS/INS Fusion: Research on how to effectively merge Global Navigation Satellite System (GNSS) and Inertial Navigation system (INS) data to obtain high-precision position and attitude information. This includes developing filtering and fusion algorithms to minimize errors and uncertainties.
 ![Editing a markdown file for a talk](/images/RTK/GNSS-INS.png)
