@@ -2,14 +2,13 @@
 title: "《A Homotopy Invariant Based on Convex Dissection Topology and a Distance Optimal Path Planning Algorithm》"
 collection: publications
 permalink: /publication/RAL2023_Optimal Path Planning Algorithm
-# excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-03
 venue: 'IEEE Robotics and Automation Letters'
 paperurl: 'http://ipcr-lab.github.io/files/A Homotopy Invariant Based on Convex Dissection Topology and a Distance Optimal Path Planning Algorithm.pdf'
-citation: 'J. Liu, M. Fu, W. Zhang, B. Chen, R. Prakapovich and U. Sychou, "CDT-Dijkstra: Fast Planning of Globally Optimal Paths for All Points in 2D Continuous Space," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 2224-2231, doi: 10.1109/IROS55552.2023.10341744.'
+citation: 'J. Liu, M. Fu, A. Liu, W. Zhang and B. Chen, "A Homotopy Invariant Based on Convex Dissection Topology and a Distance Optimal Path Planning Algorithm," in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 7695-7702, Nov. 2023, doi: 10.1109/LRA.2023.3322349.'
 ---
 # This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://ipcr-lab.github.io/files/paper2.pdf)
+[Download paper here](http://ipcr-lab.github.io/files/A Homotopy Invariant Based on Convex Dissection Topology and a Distance Optimal Path Planning Algorithm.pdf)
 
-Recommended citation: J. Liu, M. Fu, W. Zhang, B. Chen, R. Prakapovich and U. Sychou, "CDT-Dijkstra: Fast Planning of Globally Optimal Paths for All Points in 2D Continuous Space," 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Detroit, MI, USA, 2023, pp. 2224-2231, doi: 10.1109/IROS55552.2023.10341744.
+Recommended citation: J. Liu, M. Fu, A. Liu, W. Zhang and B. Chen, "A Homotopy Invariant Based on Convex Dissection Topology and a Distance Optimal Path Planning Algorithm," in IEEE Robotics and Automation Letters, vol. 8, no. 11, pp. 7695-7702, Nov. 2023, doi: 10.1109/LRA.2023.3322349.
