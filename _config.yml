@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Intelligent Cooperative Control Laboratory"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "HangZhou"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # Team  #_teaching
   - scope:
       path: ""
-      type: teaching
+      type: Team
     values:
       layout: single
       author_profile: true
@@ -221,25 +221,25 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: Reareach
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # Resources  #_portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Resources
     values:
       layout: single
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # Reareach  #_talks
   - scope:
       path: ""
-      type: talks
+      type: Reareach
     values:
       layout: talk
       author_profile: true
