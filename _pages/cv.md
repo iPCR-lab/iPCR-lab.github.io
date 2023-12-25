@@ -12,7 +12,7 @@ redirect_from:
 Huaizheng Zhang
 ======
 
-![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg)
+![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg){width=300px height=200px}
 
 Education
 ------
@@ -31,7 +31,7 @@ E-mail
 Shuibin Xie
 ======
 
-![Editing a markdown file for a talk](/images/Automomous Vehicles/xsb.png)
+![Editing a markdown file for a talk](/images/Automomous Vehicles/xsb.png){width=300px height=200px}
 
 Education
 ------
