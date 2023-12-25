@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-The Intelligent Cooperative Control Laboratory is directed by Professor Fu Minglei, Department of Control Science and Engineering, School of Information Engineering, Zhejiang University of Technology. We focus on human-machine collaboration and intelligent control. Current research areas include information fusion, visual SLAM, robot trajectory planning, high precision positioning, etc.
+The Intelligent Cooperative Control Laboratory is directed by Professor Fu Minglei, Department of Control Science and Engineering, School of Information Engineering, [Zhejiang University of Technology](https://www.zjut.edu.cn/). We focus on human-machine collaboration and intelligent control. Current research areas include Information Fusion, Visual SLAM, Robot Trajectory Planning, High Precision positioning.
 
 
 A data-driven personal website
