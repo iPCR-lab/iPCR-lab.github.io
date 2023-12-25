@@ -17,7 +17,7 @@ Huaizheng Zhang
 Education
 ------
 * B.S. in ShaoXing University, 2018-2022
-* M.S. in ZheJiang University of Technology 202
+* M.S. in ZheJiang University of Technology 2022
 
 Research direction
 ------
