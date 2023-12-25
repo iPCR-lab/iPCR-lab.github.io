@@ -1,14 +1,13 @@
 ---
-permalink: /
+layout: archive
 title: "Team"
-excerpt: "About me"
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
-{% include base_path %}
 
+{% include base_path %}
 
 Huaizheng Zhang
 ======
