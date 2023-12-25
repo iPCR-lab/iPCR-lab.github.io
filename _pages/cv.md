@@ -28,7 +28,7 @@ E-mail
 ------
 * 211122030149@zjut.edu.cn
   
-谢水镔
+Shuibin Xie
 ======
 
 ![Editing a markdown file for a talk](/images/Automomous Vehicles/xsb.png){width=300px height=200px}
