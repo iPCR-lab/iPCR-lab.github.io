@@ -3,20 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Reareach"
-    url: /Reareach/    
+  - title: "Talks"
+    url: /talks/    
 
-  - title: "Team"
-    url: /Team/    
+  - title: "Teaching"
+    url: /teaching/    
     
-  - title: "Resources"
-    url: /Resources/
+  - title: "Portfolio"
+    url: /portfolio/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
+   - title: "Blog Posts"
+     url: /year-archive/
     
-  # - title: "CV"
-  #   url: /cv/
+   - title: "CV"
+     url: /cv/
     
-  # - title: "Guide"
-  #   url: /markdown/
+   - title: "Guide"
+     url: /markdown/
