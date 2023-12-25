@@ -22,7 +22,7 @@ Team Profile
 RTK Team
 ======
 GNSS/INS Fusion: Research on how to effectively merge Global Navigation Satellite System (GNSS) and Inertial Navigation system (INS) data to obtain high-precision position and attitude information. This includes developing filtering and fusion algorithms to minimize errors and uncertainties.
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/RTK/GNSS-INS.png)
 Simultaneous localization and mapping (SLAM) techniques are studied, including visual, laser, or other sensor-based SLAM methods. Develop algorithms and techniques that enable devices to build maps and Orient themselves in unknown environments.
 Data Fusion: Explore how data from different sensors can be fused together for highly accurate navigation and map construction. This may include research on sensor calibration, coordinate conversion, and data synchronization.
 
