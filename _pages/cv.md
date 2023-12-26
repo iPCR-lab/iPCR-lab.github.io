@@ -29,7 +29,7 @@ redirect_from:
 
 孙虎
 ------
-<img src="/images/Automomous Vehicles/sh.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+<img src="/images/Automomous Vehicles/sh.jpg" alt="Editing a markdown file for a talk" width="240" height="280">
 * 教育经历
   * 2016-2020年就读于嘉兴大学自动化专业，获得学士学位
   * 2020至今于浙江工业大学信息工程学院控制科学与工程专业，攻读博士学位
@@ -72,7 +72,7 @@ redirect_from:
 
 刘小霞
 ------
-<img src="/images/Automomous Vehicles/lxx.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+<img src="/images/Automomous Vehicles/lxx.jpg" alt="Editing a markdown file for a talk" width="240" height="260">
 * 教育经历
   * 2017-2021年就读于宁波大学自动化专业，获得学士学位
   * 2021至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
