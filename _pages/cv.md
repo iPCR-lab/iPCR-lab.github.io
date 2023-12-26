@@ -21,7 +21,7 @@ redirect_from:
 ------
 <img src="/images/Automomous Vehicles/zhz.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
 * 教育经历
-  * 2018-2022年就读于绍兴文理学院自动化专业，学士学位
+  * 2018-2022年就读于绍兴文理学院自动化专业，获得学士学位
   * 2022至今于浙江工业大学信息工程学院控制科学与工程专业攻读学术硕士学位
 * 研究方向
   * 多源信息融合
@@ -32,7 +32,7 @@ redirect_from:
 ------
 <img src="/images/Automomous Vehicles/xsb.png" alt="Editing a markdown file for a talk" width="240" height="320">
 * 教育经历
-  * 2018-2022年就读于广东海洋大学计算机科学与技术，学士学位
+  * 2018-2022年就读于广东海洋大学计算机科学与技术，获得学士学位
   * 2022至今于浙江工业大学信息工程学院电子信息工程专业攻读专业硕士学位
 * 研究方向
   * 融合定位
