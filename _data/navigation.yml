@@ -3,6 +3,9 @@ main:
   - title: "团队成果"
     url: /publications/
 
+  - title: "团队成员"
+    url: /cv/
+
   - title: "Talks"
     url: /talks/    
 
@@ -14,9 +17,6 @@ main:
         
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "团队成员"
-    url: /cv/
     
   - title: "Guide"
     url: /markdown/
