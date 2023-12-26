@@ -23,8 +23,11 @@ redirect_from:
 3 高精度定位团队
 ======
 &emsp;&emsp;<font color=black size=3 font face="微软雅黑" >GNSS/INS融合：研究如何有效融合全球导航卫星系统（GNSS）和惯性导航系统（INS）的数据，以获得高精度的位置和姿态信息。这包括开发滤波和融合算法，以最大程度地减少误差和不确定性。
+
 ![Editing a markdown file for a talk](/images/RTK/GNSS-INS.png)
+
 &emsp;&emsp;<font color=black size=3 font face="微软雅黑" >SLAM技术：研究同时定位与地图构建（SLAM）技术，包括基于视觉、激光或其他传感器的SLAM方法。开发算法和技术，使设备能够在未知环境中构建地图并实现自身定位。
+
 &emsp;&emsp;<font color=black size=3 font face="微软雅黑" >数据融合：探索如何将来自不同传感器的数据融合在一起，以实现高度准确的导航和地图构建。这可能包括传感器校准、坐标转换和数据同步等方面的研究。
 
 硬件平台开发
@@ -33,11 +36,11 @@ redirect_from:
 
 软件开发和算法设计
 ------
-（1）GNSS/INS融合算法：开发滤波算法，将GNSS和INS数据有效融合，以提供高精度的位置和姿态信息。
+<font color=black size=3 font face="微软雅黑" >（1）GNSS/INS融合算法：开发滤波算法，将GNSS和INS数据有效融合，以提供高精度的位置和姿态信息。
 
-（2）SLAM算法：选择适合项目需求的SLAM算法，包括基于视觉、激光或深度传感器的SLAM，以实现地图构建和实时定位。
+<font color=black size=3 font face="微软雅黑" >（2）SLAM算法：选择适合项目需求的SLAM算法，包括基于视觉、激光或深度传感器的SLAM，以实现地图构建和实时定位。
 
-（3）数据融合：设计数据融合算法，以将不同传感器数据融合在一起，优化导航和地图构建。
+<font color=black size=3 font face="微软雅黑" >（3）数据融合：设计数据融合算法，以将不同传感器数据融合在一起，优化导航和地图构建。
 
 实地测试和验证
 ------
