@@ -156,7 +156,7 @@ redirect_from:
 
 方孝鹏
 ------
-<img src="/images/Automomous Vehicles/sjq.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+<img src="/images/Automomous Vehicles/fxp.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
 * 教育经历
   * 2019-2023年就读于北华航天工业学院自动化专业，获得学士学位
   * 2023年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
@@ -166,7 +166,7 @@ redirect_from:
 
 叶晗
 ------
-<img src="/images/Automomous Vehicles/sjq.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+<img src="/images/Automomous Vehicles/yh.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
 * 教育经历
   * 2019-2023年就读于浙江工业大学自动化专业，获得学士学位
   * 2023年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
