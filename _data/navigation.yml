@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "团队成果"
     url: /publications/
 
   - title: "Talks"
     url: /talks/    
 
-  - title: "Team"
-    url: /teaching/    
+  # - title: "Team"
+  #  url: /teaching/    
     
   - title: "Portfolio"
     url: /portfolio/
@@ -15,7 +15,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
+  - title: "团队成员"
     url: /cv/
     
   - title: "Guide"
