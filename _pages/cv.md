@@ -18,9 +18,8 @@ redirect_from:
 ======
 张怀政
 ------
-<img src=/images/Automomous Vehicles/zhz.jpg width = "100" height = "100" div align=right />
+<img src="/images/Automomous Vehicles/zhz.jpg" alt="Editing a markdown file for a talk" width="300" height="200">
 
-# ![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg)
 * 教育经历
   * 2018-2022年就读于绍兴文理学院自动化专业，学士学位
   * 2022至今于浙江工业大学信息工程学院控制科学与工程专业攻读学术硕士学位
