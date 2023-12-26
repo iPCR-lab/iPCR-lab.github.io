@@ -40,7 +40,7 @@ redirect_from:
 
 陆新宇
 ------
-<img src="/images/Automomous Vehicles/lxy.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+<img src="/images/Automomous Vehicles/lxy.png" alt="Editing a markdown file for a talk" width="240" height="320">
 * 教育经历
   * 2017-2021年就读于浙江工业大学电气工程及其自动化专业，获得学士学位
   * 2021至今于浙江工业大学信息工程学院控制科学与工程专业，攻读学术硕士学位
