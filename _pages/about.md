@@ -8,19 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-&emsp;&emsp;<font color=black size=3 font face="微软雅黑" >智能协同控制实验室由[浙江工业大学](https://www.zjut.edu.cn/)信息工程学院控制科学与工程付明磊教授主持。我们专注于人机协作和智能控制。目前的研究方向包括信息融合、视觉SLAM、机器人轨迹规划、高精度定位等。
+&emsp;&emsp;浙江工业大学智能协同控制实验室（Lab. Of Intelligent Cooperative control）是由浙江工业大学信息工程学院付明磊教授带领多名博士生以及研究生组成的一支科研团队。自成立以来，实验室一直致力于移动机器人定位导航技术、人机协作技术、无人系统智能感知技术的开发和高精度定位导航及滤波的研究，先后承担了包括国家自然科学基金、浙江省自然科学基金等多项重点项目。实验室主要课题方向包括：无人车定位导航、机器人路径规划、多智能体系统协同控制、高精度定位导航等等。在研项目包括：国家自然科学基金项目、浙江省重点研发计划项目等10余项国家级和省部级重点项目。  
 
 <img src="/images/Team2.jpg" alt="Editing a markdown file for a talk">
 
 1 机器人团队
 ======
-&emsp;&emsp;<font color=black size=3 font face="微软雅黑" >团队简介
+团队简介
 
 2 无人车团队
 ======
-&emsp;&emsp;<font color=black size=3 font face="微软雅黑" >团队简介
+团队简介
 
-3 高精度定位团队
+3 RTK团队
 ======
 &emsp;&emsp;<font color=black size=3 font face="微软雅黑" >GNSS/INS融合：研究如何有效融合全球导航卫星系统（GNSS）和惯性导航系统（INS）的数据，以获得高精度的位置和姿态信息。这包括开发滤波和融合算法，以最大程度地减少误差和不确定性。
 
