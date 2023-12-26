@@ -10,8 +10,7 @@ redirect_from:
 
 &emsp;&emsp;<font color=black size=3 font face="微软雅黑" >智能协同控制实验室由[浙江工业大学](https://www.zjut.edu.cn/)信息工程学院控制科学与工程付明磊教授主持。我们专注于人机协作和智能控制。目前的研究方向包括信息融合、视觉SLAM、机器人轨迹规划、高精度定位等。
 
-![Editing a markdown file for a talk](/images/Team2.jpg)
-
+<img src="/images/Team2.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
 1 机器人团队
 ======
 &emsp;&emsp;<font color=black size=3 font face="微软雅黑" >团队简介
