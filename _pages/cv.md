@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Team"
+title: "团队成员介绍"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,39 +9,31 @@ redirect_from:
 
 {% include base_path %}
 
-Huaizheng Zhang
+机器人团队
 ======
+111
 
+
+无人车团队
+======
+张怀政
+------
 ![Editing a markdown file for a talk](/images/Automomous Vehicles/zhz.jpg)
-Education
-------
-* B.S. in ShaoXing University, 2018-2022
-* M.S. in ZheJiang University of Technology 2022
+* 教育经历
+  * 2018-2022年就读于绍兴文理学院自动化专业，学士学位
+  * 2022至今于浙江工业大学信息工程学院控制科学与工程专业攻读学术硕士学位
+* 研究方向
+  * 多源信息融合
+  * 协作定位
+* E-mail: 211122030149@zjut.edu.cn
 
-Research direction
+谢水镔
 ------
-* Information Fusion
-* collaborative location
-
-E-mail
-------
-* 211122030149@zjut.edu.cn
-  
-Shuibin Xie
-======
-
 ![Editing a markdown file for a talk](/images/Automomous Vehicles/xsb.png)
-
-Education
-------
-* B.S. in Guangdong Ocean University, 2018-2022
-* M.S. in ZheJiang University of Technology 2022
-
-Research direction
-------
-* Fusion location
-* Sensor calibration
-
-E-mail
-------
-* 13531474434@163.com
+* 教育经历
+  * 2018-2022年就读于广东海洋大学计算机科学与技术，学士学位
+  * 2022至今于浙江工业大学信息工程学院电子信息工程专业攻读专业硕士学位
+* 研究方向
+  * 融合定位
+  * 传感器标定
+* E-mail: 13531474434@163.com
