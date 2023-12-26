@@ -16,8 +16,10 @@ redirect_from:
 
 无人车团队
 ======
+
 张怀政
 ------
+
 <img src="/images/Automomous Vehicles/zhz.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
 
 * 教育经历
