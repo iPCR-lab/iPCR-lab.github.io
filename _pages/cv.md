@@ -11,8 +11,144 @@ redirect_from:
 
 机器人团队
 ======
-11122
 
+刘锦元
+------
+<img src="/images/Robot/ljy.png" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2017-2021年就读于浙江工业大学理学院物理学专业，获得学士学位
+  * 2021 年至今于浙江工业大学信息工程学院控制科学与工程专业，攻读博士学位
+* 研究方向
+  * 运动规划
+  * 人机交互
+* E-mail: jy.liu@zjut.edu.cn
+
+邵渊
+------
+<img src="/images/Robot/sy.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2017-2021年就读于浙江工业大学理学院信息与计算科学专业，获得学士学位
+  * 2021年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
+* 研究方向
+  * 机器人环境感知
+  * 路径规划
+* E-mail: 373122399@qq.com
+
+张欣
+------
+<img src="/images/Robot/zx.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2017-2021年就读于浙江工业大学理学院光电信息科学与工程专业，获得学士学位
+  * 2021年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
+* 研究方向
+  * 人机交互
+  * 多模态情感分析
+* E-mail: 2420132028@qq.com
+
+郑家豪
+------
+<img src="/images/Robot/zjh.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2017-2021就读于浙江科技大学电气及其自动化专业，获得学士学位 
+  * 2021年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
+* 研究方向
+  * 激光同时定位与地图构建
+* E-mail: 1460723717@qq.com
+
+姜国栋
+------
+<img src="/images/Robot/jgd.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2017-2021年就读于浙江工业大学理学院光电信息科学与工程专业，获得学士学位
+  * 2021年至今于浙江工业大学信息工程学院控制科学与工程专业，攻读学术硕士学位
+* 研究方向
+  * 模仿学习
+  * 轨迹规划
+* E-mail: 15925604638@163.com
+
+李臻恺
+------
+<img src="/images/Robot/lzk.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2018-2022年就读于衢州学院自动化专业，获得学士学位
+  * 2022年至今于浙江工业大学信息工程学院控制工程专业，攻读学术硕士学位
+* 研究方向
+  * 遥操作机器人控制
+* E-mail: 692976223@qq.com
+
+李阿辉
+------
+<img src="/images/Robot/lah.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2018-2022年就读于安徽师范大学皖江学院自动化专业，获得学士学位
+  * 2022年至今于浙江工业大学信息工程学院控制科学与工程专业，攻读学术硕士学位
+* 研究方向
+  * 路径规划
+* E-mail: 2300660686@qq.com
+
+李德全
+------
+<img src="/images/Robot/ldq.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2018-2022年就读于西南科技大学自动化专业，获得学士学位
+  * 2022年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
+* 研究方向
+  * 电机控制
+* E-mail: ldq10250454@gmail.com
+
+游小超
+------
+<img src="/images/Robot/yxc.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2016-2020年就读于山东理工大学自动化专业，获得学士学位
+  * 2022年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
+* 研究方向
+  * 轨迹规划
+* E-mail: 221122030386@zjut.edu.cn
+
+李鑫
+------
+<img src="/images/Robot/lx.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2019-2023年就读于中国计量大学机械电子工程专业，获得学士学位
+  * 2023年至今于浙江工业大学信息工程学院控制科学与工程专业，攻读学术硕士学位
+* 研究方向
+  * 机器人路径规划
+* E-mail: rizy_cheese@163.com
+
+李建威
+------
+<img src="/images/Robot/ljw.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2019-2023年就读于浙江师范大学机器人工程专业，获得学士学位
+  * 2023年至今于浙江工业大学信息工程学院控制科学与工程，攻读学术硕士学位
+* 研究方向
+  * 多模态感知
+  * 机器人信息融合
+* E-mail: 1348912428@qq.com
+
+施海
+------
+<img src="/images/Robot/sh.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2019-2023年于绍兴文理学院自动化专业，获得学士学位
+  * 2023年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
+* 研究方向
+  * 嵌入式开发
+  * 机器人底盘驱动
+  * 电机控制
+* E-mail: 1795732009@qq.com
+
+王振彬
+------
+<img src="/images/Robot/wzb.jpg" alt="Editing a markdown file for a talk" width="240" height="320">
+* 教育经历
+  * 2018-2022年就读于湖南科技大学机器人工程专业，获得学士学位
+  * 2023年至今于浙江工业大学信息工程学院控制工程专业，攻读专业硕士学位
+* 研究方向
+  * 深度学习
+  * 故障检测
+* E-mail: wzb910388985@163.com
 
 无人车团队
 ======
